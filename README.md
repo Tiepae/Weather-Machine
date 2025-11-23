@@ -9,19 +9,21 @@ Throughout the project, I learned more about wiring, component compatibility, an
 
 Eventually, I plan to explore running fully custom C programs on an Arduino without relying on the Arduino-specific language and framework.
 
-Here are the components I used displayed below:
-
-Arduino Uno Rev 3 Microcontroller
-<img width="842" height="609" alt="image" src="https://github.com/user-attachments/assets/02b5a653-4e62-459e-b724-87f4ac326240" />
-
-SunFounder IIC/I2C/TWI LCD1602 Display
-![71TsnKeXQcL _AC_SL1500_](https://github.com/user-attachments/assets/93051c50-8410-4287-a77f-3f0bdae0cec0)
-
-
-DHT 11 Digital Temperature and Humidity Module
-![71rMGyl3GvL _SL1500_](https://github.com/user-attachments/assets/71b4353a-cc7c-4bd4-b3c3-17fab66b906a)
-
 
 My finished setup and programming results:
 <img width="719" height="961" alt="image" src="https://github.com/user-attachments/assets/6ef25e1a-0a33-4345-8097-069002ac6694" />
+
+
+Here are the components I used displayed below:
+
+Arduino Uno Rev 3 Microcontroller:
+<img width="842" height="609" alt="image" src="https://github.com/user-attachments/assets/02b5a653-4e62-459e-b724-87f4ac326240" />
+
+SunFounder IIC/I2C/TWI LCD1602 Display:
+![71TsnKeXQcL _AC_SL1500_](https://github.com/user-attachments/assets/93051c50-8410-4287-a77f-3f0bdae0cec0)
+
+
+DHT 11 Digital Temperature and Humidity Module:
+![71rMGyl3GvL _SL1500_](https://github.com/user-attachments/assets/71b4353a-cc7c-4bd4-b3c3-17fab66b906a)
+
 
